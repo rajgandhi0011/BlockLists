@@ -1,14 +1,16 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 21,773
-# Updated: 2/3/2023  17:12 (5:12 PM CST)
+# Domains: 21,774
+# Updated: 2/4/2023  23:11 (11:11 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
+
+cita-rapida.com
 
 000relationshinitselfy.com
 007cryptooption.com
