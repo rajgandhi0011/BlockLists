@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 18,883
-# Updated: 4/12/2023  10:16 (10:16 AM CST)
+# Domains: 18,885
+# Updated: 4/12/2023  17:27 (5:27 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -8503,6 +8503,7 @@ cmp.dmgmediaprivacy.co.uk
 cmp.impress.co.jp
 cmptch.com
 cmp.tech426.com
+cmpv2.faroutmagazine.co.uk
 cmpv2.pcworld.com
 cms.angloinfo.com
 cmstecno.com
@@ -14535,6 +14536,7 @@ propellerads.net
 propelmedia.com
 proper.io
 propermessage.io
+prop.faroutmagazine.co.uk
 propholicad.com
 proppellerads.ru
 pro-pro-go.com
