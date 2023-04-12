@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 1,065
-# Updated: 4/11/2023  11:26 (11:26 AM CST)
+# Domains: 1,066
+# Updated: 4/12/2023  10:16 (10:16 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -668,6 +668,7 @@ rfj.tips
 ripd.in
 riverbridge.cf
 rjvn.co
+rlw.co
 rotf.lol
 rtxt.co
 ruhgsliughs.com
