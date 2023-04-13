@@ -20807,6 +20807,7 @@ ocsp.int-x3.letsencrypt.org
 ocsp.msocsp.com
 ocsp.omniroot.com
 ocsp.pki.goog
+ocsp.r2m01.amazontrust.com
 ocsp.rootca1.amazontrust.com
 ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
@@ -23817,6 +23818,7 @@ resizer.lashowroom.com
 resizer.mail.ru
 resizing.flixster.com
 resmed.com
+resource.leap.app
 resource.logitech.com
 resources.allstate.com
 resources.blogblog.com
